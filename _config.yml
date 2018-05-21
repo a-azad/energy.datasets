@@ -1,1 +1,5 @@
 theme: jekyll-theme-leap-day
+title: Oil & Gas Datasets
+description: list of public datasets on the web
+show_downloads: false
+google_analytics:
