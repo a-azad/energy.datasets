@@ -1,8 +1,6 @@
 #  _energy datasets_
 The [Energy Industry](https://en.wikipedia.org/wiki/Energy_industry) and energy consumers are challenged daily to make decisions and plan for long-term strategies. [Data Analytics](https://en.wikipedia.org/wiki/Data_analysis) is often an essential approach in response to these challenges. This page is a little project that aggregates __web-links__ to relevant __energy datasets__ observed within the public domain.
 
-# _web-links_
-
 ## major hubs
 * [International Energy Agency: Data & Publications](https://webstore.iea.org/)
 * [data.gov: Energy](https://catalog.data.gov/dataset?groups=energy9485#topic=energy_navigation)
@@ -31,4 +29,3 @@ The [Energy Industry](https://en.wikipedia.org/wiki/Energy_industry) and energy 
 
 ## other
 * [bigML](https://bigml.com/gallery/datasets/energy_oil_and_gas)
-*
