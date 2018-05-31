@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+#  _energy datasets_
+The [Energy Industry](https://en.wikipedia.org/wiki/Energy_industry) and energy consumers are challenged daily to make decisions and plan for long-term strategies. [Data Analytics](https://en.wikipedia.org/wiki/Data_analysis) is often an essential approach in response to these challenges. This page is a little project that aggregates __web-links__ to relevant __energy datasets__ observed within the public domain.
 
-You can use the [editor on GitHub](https://github.com/a-azad/OG_datasets/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# _web-links_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## major hubs
+* [International Energy Agency: Data & Publications](https://webstore.iea.org/)
+* [data.gov: Energy](https://catalog.data.gov/dataset?groups=energy9485#topic=energy_navigation)
+* [energy.gov](https://www.energy.gov/data/open-energy-data)
+* [World Bank Open Data](https://data.worldbank.org/)
+* [OpenEi.org: renewable energy](https://openei.org/datasets/dataset?tags=renewable+energy)
+* [Duke University: Energy Data Resources](https://energy.duke.edu/research/energy-data/resources)
+* [energydata.info]()https://energydata.info/dataset
+* [EU Open Data Porta: Energy](https://data.europa.eu/euodp/data/group/eurovoc_domain_100159)
+* [Denmark Energy Services](https://www.energidataservice.dk/dataset)
+* [European Data Portal: Energy](https://www.europeandataportal.eu/data/en/dataset/energie-energies-renouvelables)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## github
+* [Awesome Public Datasets: Energy](https://github.com/awesomedata/awesome-public-datasets#energy)
+* [Deep learning tools for predicting oil well data](https://github.com/akashlevy/Deep-Learn-Oil)
 
-```markdown
-Syntax highlighted code block
+## kaggle
+* [Global Energy Forecasting Competition 2012](https://www.kaggle.com/c/global-energy-forecasting-competition-2012-load-forecasting)
+* [Oil Pipeline Accidents, 2010-Present](https://www.kaggle.com/usdot/pipeline-accidents)
+* [Oklahoma Earthquakes and Saltwater Injection Wells](https://www.kaggle.com/ksuchris2000/oklahoma-earthquakes-and-saltwater-injection-wells)
 
-# Header 1
-## Header 2
-### Header 3
+## UCI repository
+* [Energy efficiency Data Set](https://archive.ics.uci.edu/ml/datasets/energy+efficiency)
+* [household electric power consumption](https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/a-azad/OG_datasets/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## other
+* [bigML](https://bigml.com/gallery/datasets/energy_oil_and_gas)
+*
