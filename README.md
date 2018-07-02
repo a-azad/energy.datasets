@@ -9,7 +9,7 @@ The [Energy Industry](https://en.wikipedia.org/wiki/Energy_industry) and energy 
 * [OpenEi.org: renewable energy](https://openei.org/datasets/dataset?tags=renewable+energy)
 * [Duke University: Energy Data Resources](https://energy.duke.edu/research/energy-data/resources)
 * [energydata.info](https://energydata.info/dataset)
-* [EU Open Data Porta: Energy](https://data.europa.eu/euodp/data/group/eurovoc_domain_100159)
+* [EU Open Data Portal: Energy](https://data.europa.eu/euodp/data/group/eurovoc_domain_100159)
 * [Denmark Energy Services](https://www.energidataservice.dk/dataset)
 * [European Data Portal: Energy](https://www.europeandataportal.eu/data/en/dataset/energie-energies-renouvelables)
 * [Alberta (Canada) Energy Regulator: Activity and Data](https://www.aer.ca/providing-information/data-and-reports/activity-and-data)
