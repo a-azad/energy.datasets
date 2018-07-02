@@ -12,6 +12,11 @@ The [Energy Industry](https://en.wikipedia.org/wiki/Energy_industry) and energy 
 * [EU Open Data Porta: Energy](https://data.europa.eu/euodp/data/group/eurovoc_domain_100159)
 * [Denmark Energy Services](https://www.energidataservice.dk/dataset)
 * [European Data Portal: Energy](https://www.europeandataportal.eu/data/en/dataset/energie-energies-renouvelables)
+* [Alberta (Canada) Energy Regulator: Activity and Data](https://www.aer.ca/providing-information/data-and-reports/activity-and-data)
+* [Iceland National Energy Authority: Energy Data](https://nea.is/oil-and-gas-exploration/exploration-areas/datasets/)
+* [Earth Policy Institue: Data Center](http://www.earth-policy.org/data_center/)
+* [Global Energy Statistical Yearbook](https://yearbook.enerdata.net/)
+* [EnergyData.Info](https://energydata.info)
 
 
 ## github
