@@ -1,5 +1,5 @@
 #  energy datasets
-In the Energy sector, data (engineering and production) is often not publicly available long time after operation. There are only handful of API’s that allow open access to real-time data –mostly commodity price and other financial indicators. Lack of access to relevant data prevents the growing Data Science community and the researchers in Academia from effectively contributing to the industry-wide learning process. This page is an ad-hoc solution to fill-in (or more precisely to bring attention to) this gap by aggregating __web-links__ to relevant __energy datasets__ observed in the public domain. 
+In the Energy sector, data (engineering and production) is often not publicly available long time after operation. There are only handful of API’s that allow open access to real-time data –mostly commodity price and other financial indicators. Lack of access to relevant data prevents the growing Data Science community and the researchers in Academia from effectively contributing to the industry-wide learning process. This page is an ad-hoc solution to fill-in (or more precisely to bring attention to) this gap by aggregating __web-links__ observed in the __public domain__. 
 
 ## major hubs
 * [International Energy Agency: Data & Publications](https://webstore.iea.org/)
