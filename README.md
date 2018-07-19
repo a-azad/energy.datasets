@@ -7,14 +7,13 @@ In the Energy sector, data (engineering and production) is often not publicly av
 * [energy.gov](https://www.energy.gov/data/open-energy-data)
 * [World Bank Open Data](https://data.worldbank.org/)
 * [OpenEi.org: renewable energy](https://openei.org/datasets/dataset?tags=renewable+energy)
-* [energydata.info](https://energydata.info/dataset)
+* [EnergyData.info](https://energydata.info/dataset)
 * [EU Open Data Portal: Energy](https://data.europa.eu/euodp/data/group/eurovoc_domain_100159)
 * [Denmark Energy Services](https://www.energidataservice.dk/dataset)
 * [European Data Portal: Energy](https://www.europeandataportal.eu/data/en/dataset/energie-energies-renouvelables)
 * [Iceland National Energy Authority: Energy Data](https://nea.is/oil-and-gas-exploration/exploration-areas/datasets/)
 * [Earth Policy Institue: Data Center](http://www.earth-policy.org/data_center/)
 * [Global Energy Statistical Yearbook](https://yearbook.enerdata.net/)
-* [EnergyData.Info](https://energydata.info)
 
 ## Canada
 * [Alberta Energy Regulator: Activity and Data](https://www.aer.ca/providing-information/data-and-reports/activity-and-data)
