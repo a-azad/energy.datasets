@@ -14,7 +14,6 @@ In the Energy sector, data (engineering and production) is often not publicly av
 * [Iceland National Energy Authority: Energy Data](https://nea.is/oil-and-gas-exploration/exploration-areas/datasets/)
 * [Earth Policy Institue: Data Center](http://www.earth-policy.org/data_center/)
 * [Global Energy Statistical Yearbook](https://yearbook.enerdata.net/)
-* [National ]()
 * [bigML](https://bigml.com/gallery/datasets/energy_oil_and_gas)
 * [Equinor (Statoil): disclosing all Volve data](https://www.equinor.com/en/news/14jun2018-disclosing-volve-data.html)
 * [ National Energy Technology Lab: Data eXchange](https://edx.netl.doe.gov/dataset/global-oil-gas-features-database)
